@@ -29,6 +29,10 @@ function draw() {
 
 What do each of the numerical arguments of the word "ellipse" do? Try swapping each one with the value 200 and see if you can deduce what each one does.
 
+Challenges:
+* Get a second ellipse on screen
+* Make four ellipses: one inscribed in each corner of the canvas
+
 
 #### Fill, noStroke
 * What will happen if we try fill and noStroke instead?
@@ -82,6 +86,8 @@ Look these 2D-primitives up in the [documentation](https://p5js.org/reference/) 
 
 Challenge students to do any/all of the following:
 * Build out the olympic rings
+* Build out the Target logo
+* Build a snowman
 * Build out a lego person
 
 #### Takeaways
